@@ -1,5 +1,7 @@
 import numpy as np
 from bidi.algorithm import get_display
+import matplotlib
+matplotlib.rc('font', family='KacstOne')
 import matplotlib.pyplot as plt
 import arabic_reshaper
 
