@@ -1,2 +1,2 @@
-# nlp_visualization
-NOT IMPLEMENTED YET
+# Text Visualization
+Under Construction ...
