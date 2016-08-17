@@ -1,2 +1,2 @@
-# Text Visualization
+# Persian Text Visualization
 Under Construction ...
